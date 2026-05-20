@@ -17,7 +17,17 @@ A comprehensive web application for suggesting recipes, answering culinary quest
 
 **Information:** Course: MAT3508 - Introduction to Artificial Intelligence | Semester: Semester 1 - 2025-2026 | University: VNU-HUS (Vietnam National University, Hanoi - University of Science) | Title: Cooking Assistant Chatbot | Submission Date: November 30, 2025 | PDF Report: [Link to PDF report in this repository] | Presentation Slides: [Link to presentation slides in this repository] | Repository: Includes source code, data, and documentation (or external links if needed)
 
-**Group Members:** Nguyễn Thị Hòa (23001521, IamHoa05) - Team Leader, Backend, NLP; Đào Thị Ngọc Bích (23001501, daobich14) - Frontend, Data Preprocessing; Đinh Thị Kiều Na (23001537, kieuna2005) - Frontend, Embedding; Dương Diễm Quỳnh (23001555, ddquynh) - Backend, LLM; Lưu Thị Thủy Tiên (23001563, ttien2312) - Backend, NLP
+**Group Members:** 
+
+Nguyễn Thị Hòa (23001521, IamHoa05) - Team Leader, Backend, NLP
+
+Đào Thị Ngọc Bích (23001501, daobich14) - Frontend, Data Preprocessing
+
+Đinh Thị Kiều Na (23001537, kieuna2005) - Frontend, Embedding
+
+Dương Diễm Quỳnh (23001555, ddquynh) - Backend, LLM
+
+Lưu Thị Thủy Tiên (23001563, ttien2312) - Backend, NLP
 
 ## Report Structure Overview
 
