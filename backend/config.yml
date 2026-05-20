@@ -1,0 +1,3 @@
+embedding:
+  model_name: "BAAI/bge-m3"    # Sentence-transformers model used for recipe embeddings
+  batch_size: 32                  # Batch size for embedding generation
