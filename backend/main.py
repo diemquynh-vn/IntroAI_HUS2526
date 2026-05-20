@@ -15,7 +15,7 @@ from typing import List
 app = FastAPI(title="Cooking Assistant API")
 
 # ============================================
-# 2. Cấu hình CORS (Frontend gọi API)
+# 2. Cấu hình CORS
 # ============================================
 # Trong giai đoạn phát triển: allow_origins = ["*"]
 # Khi deploy thật: CHỈ cho phép domain cần thiết
